@@ -1,1 +1,1 @@
-# QR-Page
+# QR-Page using HTML and CSS.
